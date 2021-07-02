@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h4 {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h5 {
+    font-size: 140%;
+
+}
+
+p {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: cadetblue;
+
+}
+
+textarea {
+
+    width: 70vw;
+    height: 7vh;
+
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 2px 8px;
+}
